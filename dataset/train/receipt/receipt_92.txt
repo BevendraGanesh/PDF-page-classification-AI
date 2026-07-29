@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1092
+
+Customer : Ravi Kumar
+
+Amount Paid : 73570
+
+Payment Method : Cash
+
+Status : Successful

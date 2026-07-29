@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1005
+
+Buyer : Ganesh Naidu
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 47166
+
+Payment Mode : UPI

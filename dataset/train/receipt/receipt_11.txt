@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1011
+
+Customer : Suresh
+
+Amount Paid : 93580
+
+Payment Method : Cash
+
+Status : Successful

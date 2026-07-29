@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1031
+
+Customer : Arun
+
+Amount Paid : 49150
+
+Payment Method : Cash
+
+Status : Successful

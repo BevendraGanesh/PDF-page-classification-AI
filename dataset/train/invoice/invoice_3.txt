@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1003
+
+Invoice Date : 08/10/2024
+
+Customer : Ganesh Naidu
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 5
+
+Price : 91335
+
+GST : 18%
+
+Total Amount : 456675
+
+Payment Status : Paid

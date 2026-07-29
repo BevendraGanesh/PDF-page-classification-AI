@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1017
+
+Customer : Sai Krishna
+
+Amount Paid : 74425
+
+Payment Method : Cash
+
+Status : Successful

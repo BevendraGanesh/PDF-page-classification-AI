@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1082
+
+Invoice Date : 21/02/2022
+
+Customer : Rahul
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 5
+
+Price : 11459
+
+GST : 18%
+
+Total Amount : 57295
+
+Payment Status : Paid

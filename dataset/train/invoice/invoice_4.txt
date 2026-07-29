@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1004
+
+Invoice Date : 26/01/2023
+
+Customer : Vijay
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 6
+
+Price : 32370
+
+GST : 18%
+
+Total Amount : 194220
+
+Payment Status : Paid

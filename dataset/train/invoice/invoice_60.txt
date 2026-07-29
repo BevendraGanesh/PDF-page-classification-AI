@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1060
+
+Buyer : Ravi Kumar
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 44110
+
+Payment Mode : UPI

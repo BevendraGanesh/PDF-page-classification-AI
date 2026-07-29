@@ -1,0 +1,18 @@
+
+SHOP RECEIPT
+
+Store : Reliance Mart
+
+Receipt ID : 1056
+
+Customer : Arun
+
+Items :
+
+Rice
+
+Oil
+
+Sugar
+
+Total Amount : 46113

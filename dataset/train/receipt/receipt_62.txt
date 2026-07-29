@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1062
+
+Customer : Vijay
+
+Amount Paid : 23591
+
+Payment Method : Cash
+
+Status : Successful

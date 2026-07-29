@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1038
+
+Customer : Teja
+
+Amount Paid : 70636
+
+Payment Method : Cash
+
+Status : Successful

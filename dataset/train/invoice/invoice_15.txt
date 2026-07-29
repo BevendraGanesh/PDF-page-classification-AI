@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1015
+
+Buyer : Vijay
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 291756
+
+Payment Mode : UPI

@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1018
+
+Customer : Ravi Kumar
+
+Amount Paid : 76547
+
+Payment Method : Cash
+
+Status : Successful

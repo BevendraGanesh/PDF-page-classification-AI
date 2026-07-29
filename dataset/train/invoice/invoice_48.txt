@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1048
+
+Invoice Date : 01/10/2026
+
+Customer : Arun
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 7
+
+Price : 22439
+
+GST : 18%
+
+Total Amount : 157073
+
+Payment Status : Paid

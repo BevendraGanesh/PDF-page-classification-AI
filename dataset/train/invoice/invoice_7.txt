@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1007
+
+Invoice Date : 26/07/2022
+
+Customer : Vijay
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 10
+
+Price : 76701
+
+GST : 18%
+
+Total Amount : 767010
+
+Payment Status : Paid

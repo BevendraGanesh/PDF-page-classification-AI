@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1092
+
+Invoice Date : 20/05/2026
+
+Customer : Kiran
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 4
+
+Price : 83760
+
+GST : 18%
+
+Total Amount : 335040
+
+Payment Status : Paid

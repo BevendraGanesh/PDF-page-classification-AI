@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1003
+
+Customer : Kiran
+
+Amount Paid : 21790
+
+Payment Method : Cash
+
+Status : Successful

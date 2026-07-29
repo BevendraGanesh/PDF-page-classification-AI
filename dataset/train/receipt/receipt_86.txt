@@ -1,0 +1,18 @@
+
+SHOP RECEIPT
+
+Store : Reliance Mart
+
+Receipt ID : 1086
+
+Customer : Vijay
+
+Items :
+
+Rice
+
+Oil
+
+Sugar
+
+Total Amount : 95181

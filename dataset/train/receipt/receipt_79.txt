@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1079
+
+Customer : Mahesh
+
+Amount Paid : 96416
+
+Payment Method : Cash
+
+Status : Successful

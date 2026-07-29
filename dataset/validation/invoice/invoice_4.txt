@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1004
+
+Invoice Date : 04/06/2024
+
+Customer : Suresh
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 5
+
+Price : 39852
+
+GST : 18%
+
+Total Amount : 199260
+
+Payment Status : Paid

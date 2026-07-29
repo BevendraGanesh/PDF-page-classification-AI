@@ -1,0 +1,20 @@
+
+RESUME
+
+Name : Sai Krishna
+
+Education :
+
+B.Tech Computer Science
+
+Skills :
+
+Python
+
+Java
+
+Machine Learning
+
+Projects :
+
+PDF Page Classification AI

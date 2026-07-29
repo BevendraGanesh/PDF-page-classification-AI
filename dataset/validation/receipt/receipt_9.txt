@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1009
+
+Customer : Vijay
+
+Amount Paid : 70490
+
+Payment Method : Cash
+
+Status : Successful

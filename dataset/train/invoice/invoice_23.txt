@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1023
+
+Invoice Date : 23/03/2024
+
+Customer : Rahul
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 9
+
+Price : 10585
+
+GST : 18%
+
+Total Amount : 95265
+
+Payment Status : Paid

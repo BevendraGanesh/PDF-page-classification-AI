@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1038
+
+Buyer : Kiran
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 41148
+
+Payment Mode : UPI

@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1022
+
+Customer : Kiran
+
+Amount Paid : 92601
+
+Payment Method : Cash
+
+Status : Successful

@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1026
+
+Customer : Suresh
+
+Amount Paid : 28185
+
+Payment Method : Cash
+
+Status : Successful

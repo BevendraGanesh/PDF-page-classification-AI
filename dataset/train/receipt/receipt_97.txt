@@ -1,0 +1,18 @@
+
+SHOP RECEIPT
+
+Store : Reliance Mart
+
+Receipt ID : 1097
+
+Customer : Ganesh Naidu
+
+Items :
+
+Rice
+
+Oil
+
+Sugar
+
+Total Amount : 20196

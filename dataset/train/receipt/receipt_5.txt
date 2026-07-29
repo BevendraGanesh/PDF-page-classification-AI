@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1005
+
+Customer : Kiran
+
+Amount Paid : 23268
+
+Payment Method : Cash
+
+Status : Successful

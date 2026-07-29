@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1077
+
+Customer : Suresh
+
+Amount Paid : 68371
+
+Payment Method : Cash
+
+Status : Successful

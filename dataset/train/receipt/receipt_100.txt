@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1100
+
+Customer : Sai Krishna
+
+Amount Paid : 45705
+
+Payment Method : Cash
+
+Status : Successful

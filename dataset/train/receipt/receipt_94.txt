@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1094
+
+Customer : Teja
+
+Amount Paid : 98600
+
+Payment Method : Cash
+
+Status : Successful

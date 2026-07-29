@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1011
+
+Customer : Vijay
+
+Amount Paid : 6307
+
+Payment Method : Cash
+
+Status : Successful

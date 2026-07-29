@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1064
+
+Customer : Sai Krishna
+
+Amount Paid : 78023
+
+Payment Method : Cash
+
+Status : Successful

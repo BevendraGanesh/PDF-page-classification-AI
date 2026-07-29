@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1008
+
+Customer : Ganesh Naidu
+
+Amount Paid : 34283
+
+Payment Method : Cash
+
+Status : Successful

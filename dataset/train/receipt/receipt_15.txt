@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1015
+
+Customer : Suresh
+
+Amount Paid : 81080
+
+Payment Method : Cash
+
+Status : Successful

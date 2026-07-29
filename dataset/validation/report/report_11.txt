@@ -1,0 +1,14 @@
+
+PROJECT REPORT
+
+Title :
+
+AI PDF Classification
+
+Prepared By :
+
+Sai Krishna
+
+Abstract :
+
+This project classifies PDF pages using AI.

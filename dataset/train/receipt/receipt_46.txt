@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1046
+
+Customer : Kiran
+
+Amount Paid : 43516
+
+Payment Method : Cash
+
+Status : Successful

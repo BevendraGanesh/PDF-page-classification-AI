@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1055
+
+Invoice Date : 01/05/2022
+
+Customer : Ravi Kumar
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 5
+
+Price : 93635
+
+GST : 18%
+
+Total Amount : 468175
+
+Payment Status : Paid

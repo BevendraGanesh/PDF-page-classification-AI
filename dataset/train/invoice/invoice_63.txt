@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1063
+
+Buyer : Suresh
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 114910
+
+Payment Mode : UPI

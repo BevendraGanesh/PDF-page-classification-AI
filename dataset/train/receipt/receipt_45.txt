@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1045
+
+Customer : Teja
+
+Amount Paid : 20050
+
+Payment Method : Cash
+
+Status : Successful

@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1012
+
+Invoice Date : 20/06/2022
+
+Customer : Mahesh
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 6
+
+Price : 30898
+
+GST : 18%
+
+Total Amount : 185388
+
+Payment Status : Paid

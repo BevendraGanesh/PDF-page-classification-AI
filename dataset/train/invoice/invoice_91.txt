@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1091
+
+Buyer : Teja
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 294285
+
+Payment Mode : UPI

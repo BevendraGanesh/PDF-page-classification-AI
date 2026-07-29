@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1065
+
+Buyer : Arun
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 81796
+
+Payment Mode : UPI

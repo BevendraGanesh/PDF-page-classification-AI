@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1040
+
+Customer : Ganesh Naidu
+
+Amount Paid : 9375
+
+Payment Method : Cash
+
+Status : Successful

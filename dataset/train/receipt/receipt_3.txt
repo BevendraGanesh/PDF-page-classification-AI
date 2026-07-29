@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1003
+
+Customer : Vijay
+
+Amount Paid : 74178
+
+Payment Method : Cash
+
+Status : Successful

@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1061
+
+Invoice Date : 21/06/2026
+
+Customer : Teja
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 10
+
+Price : 24812
+
+GST : 18%
+
+Total Amount : 248120
+
+Payment Status : Paid

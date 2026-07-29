@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1004
+
+Customer : Ganesh Naidu
+
+Amount Paid : 68336
+
+Payment Method : Cash
+
+Status : Successful

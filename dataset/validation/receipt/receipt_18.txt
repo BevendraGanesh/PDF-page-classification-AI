@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1018
+
+Customer : Kiran
+
+Amount Paid : 7871
+
+Payment Method : Cash
+
+Status : Successful

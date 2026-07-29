@@ -1,0 +1,18 @@
+
+SHOP RECEIPT
+
+Store : Reliance Mart
+
+Receipt ID : 1028
+
+Customer : Teja
+
+Items :
+
+Rice
+
+Oil
+
+Sugar
+
+Total Amount : 86205

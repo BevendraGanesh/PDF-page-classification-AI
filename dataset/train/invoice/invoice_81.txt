@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1081
+
+Buyer : Rahul
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 268168
+
+Payment Mode : UPI

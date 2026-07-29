@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1016
+
+Invoice Date : 22/02/2026
+
+Customer : Rahul
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 3
+
+Price : 1118
+
+GST : 18%
+
+Total Amount : 3354
+
+Payment Status : Paid

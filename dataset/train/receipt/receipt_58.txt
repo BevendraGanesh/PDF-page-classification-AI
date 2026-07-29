@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1058
+
+Customer : Vijay
+
+Amount Paid : 44088
+
+Payment Method : Cash
+
+Status : Successful

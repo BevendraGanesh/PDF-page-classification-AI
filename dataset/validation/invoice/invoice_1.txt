@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1001
+
+Invoice Date : 05/02/2023
+
+Customer : Arun
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 3
+
+Price : 37730
+
+GST : 18%
+
+Total Amount : 113190
+
+Payment Status : Paid

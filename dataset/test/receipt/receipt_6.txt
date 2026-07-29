@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1006
+
+Customer : Sai Krishna
+
+Amount Paid : 63981
+
+Payment Method : Cash
+
+Status : Successful

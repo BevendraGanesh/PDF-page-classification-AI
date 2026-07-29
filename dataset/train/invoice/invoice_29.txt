@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1029
+
+Buyer : Suresh
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 30700
+
+Payment Mode : UPI

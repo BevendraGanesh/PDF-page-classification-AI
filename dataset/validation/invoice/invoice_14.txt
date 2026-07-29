@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1014
+
+Invoice Date : 14/11/2022
+
+Customer : Sai Krishna
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 7
+
+Price : 2396
+
+GST : 18%
+
+Total Amount : 16772
+
+Payment Status : Paid

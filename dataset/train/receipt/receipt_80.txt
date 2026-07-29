@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1080
+
+Customer : Sai Krishna
+
+Amount Paid : 68928
+
+Payment Method : Cash
+
+Status : Successful

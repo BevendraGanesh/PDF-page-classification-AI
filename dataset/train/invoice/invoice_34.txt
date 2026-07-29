@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1034
+
+Invoice Date : 24/03/2026
+
+Customer : Sai Krishna
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 9
+
+Price : 64132
+
+GST : 18%
+
+Total Amount : 577188
+
+Payment Status : Paid

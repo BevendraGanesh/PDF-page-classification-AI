@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1089
+
+Buyer : Kiran
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 85815
+
+Payment Mode : UPI

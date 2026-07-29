@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1040
+
+Buyer : Sai Krishna
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 504864
+
+Payment Mode : UPI

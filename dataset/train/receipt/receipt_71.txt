@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1071
+
+Customer : Sai Krishna
+
+Amount Paid : 69650
+
+Payment Method : Cash
+
+Status : Successful

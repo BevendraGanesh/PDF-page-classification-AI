@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1073
+
+Invoice Date : 07/09/2023
+
+Customer : Ravi Kumar
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 10
+
+Price : 18491
+
+GST : 18%
+
+Total Amount : 184910
+
+Payment Status : Paid

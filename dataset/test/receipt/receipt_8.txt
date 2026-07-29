@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1008
+
+Customer : Suresh
+
+Amount Paid : 44223
+
+Payment Method : Cash
+
+Status : Successful

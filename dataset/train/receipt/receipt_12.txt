@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1012
+
+Customer : Ganesh Naidu
+
+Amount Paid : 82513
+
+Payment Method : Cash
+
+Status : Successful

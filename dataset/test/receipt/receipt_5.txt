@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1005
+
+Customer : Mahesh
+
+Amount Paid : 10271
+
+Payment Method : Cash
+
+Status : Successful

@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1059
+
+Invoice Date : 17/09/2025
+
+Customer : Sai Krishna
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 7
+
+Price : 89493
+
+GST : 18%
+
+Total Amount : 626451
+
+Payment Status : Paid

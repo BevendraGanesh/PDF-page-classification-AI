@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1001
+
+Customer : Ravi Kumar
+
+Amount Paid : 51232
+
+Payment Method : Cash
+
+Status : Successful

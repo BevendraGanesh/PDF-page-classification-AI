@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1005
+
+Buyer : Sai Krishna
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 31574
+
+Payment Mode : UPI

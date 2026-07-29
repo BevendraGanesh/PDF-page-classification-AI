@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1008
+
+Invoice Date : 16/09/2024
+
+Customer : Kiran
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 5
+
+Price : 42206
+
+GST : 18%
+
+Total Amount : 211030
+
+Payment Status : Paid

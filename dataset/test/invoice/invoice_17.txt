@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1017
+
+Buyer : Ganesh Naidu
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 643311
+
+Payment Mode : UPI

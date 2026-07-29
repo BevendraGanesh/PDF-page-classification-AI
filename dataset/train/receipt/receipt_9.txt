@@ -1,0 +1,18 @@
+
+SHOP RECEIPT
+
+Store : Reliance Mart
+
+Receipt ID : 1009
+
+Customer : Sai Krishna
+
+Items :
+
+Rice
+
+Oil
+
+Sugar
+
+Total Amount : 420440

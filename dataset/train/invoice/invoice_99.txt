@@ -1,0 +1,20 @@
+
+TAX INVOICE
+
+Invoice ID : 1099
+
+Buyer : Mahesh
+
+Seller : XYZ Electronics
+
+Items Purchased :
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Total : 506328
+
+Payment Mode : UPI

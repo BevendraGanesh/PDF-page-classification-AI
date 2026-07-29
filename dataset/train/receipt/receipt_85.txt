@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1085
+
+Customer : Arun
+
+Amount Paid : 57013
+
+Payment Method : Cash
+
+Status : Successful

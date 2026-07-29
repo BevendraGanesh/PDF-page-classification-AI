@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1008
+
+Invoice Date : 21/12/2022
+
+Customer : Arun
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 1
+
+Price : 32639
+
+GST : 18%
+
+Total Amount : 32639
+
+Payment Status : Paid

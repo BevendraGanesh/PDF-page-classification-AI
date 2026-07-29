@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1014
+
+Invoice Date : 25/04/2022
+
+Customer : Vijay
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 7
+
+Price : 41242
+
+GST : 18%
+
+Total Amount : 288694
+
+Payment Status : Paid

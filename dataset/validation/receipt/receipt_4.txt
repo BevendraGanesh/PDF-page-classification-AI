@@ -1,0 +1,18 @@
+
+SHOP RECEIPT
+
+Store : Reliance Mart
+
+Receipt ID : 1004
+
+Customer : Suresh
+
+Items :
+
+Rice
+
+Oil
+
+Sugar
+
+Total Amount : 55146

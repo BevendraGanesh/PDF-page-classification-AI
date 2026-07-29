@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1053
+
+Customer : Rahul
+
+Amount Paid : 72546
+
+Payment Method : Cash
+
+Status : Successful

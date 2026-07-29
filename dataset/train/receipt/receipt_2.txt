@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1002
+
+Customer : Teja
+
+Amount Paid : 7885
+
+Payment Method : Cash
+
+Status : Successful

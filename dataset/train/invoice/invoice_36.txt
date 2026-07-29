@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1036
+
+Invoice Date : 23/07/2026
+
+Customer : Suresh
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 9
+
+Price : 7587
+
+GST : 18%
+
+Total Amount : 68283
+
+Payment Status : Paid

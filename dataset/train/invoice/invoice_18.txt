@@ -1,0 +1,22 @@
+
+INVOICE
+
+Invoice Number : INV-1018
+
+Invoice Date : 14/10/2026
+
+Customer : Mahesh
+
+Company : ABC Technologies
+
+Product : Laptop
+
+Quantity : 7
+
+Price : 22211
+
+GST : 18%
+
+Total Amount : 155477
+
+Payment Status : Paid

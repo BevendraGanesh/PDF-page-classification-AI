@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1019
+
+Customer : Teja
+
+Amount Paid : 12117
+
+Payment Method : Cash
+
+Status : Successful

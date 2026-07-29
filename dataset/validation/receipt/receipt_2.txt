@@ -1,0 +1,12 @@
+
+PAYMENT RECEIPT
+
+Receipt Number : REC-1002
+
+Customer : Sai Krishna
+
+Amount Paid : 79298
+
+Payment Method : Cash
+
+Status : Successful
